@@ -1,0 +1,12 @@
+
+
+script to send guerilla into cgru thx to guerilla render team and forum !!!
+
+to install :
+
+- set the folder where you put the script into the userpluging env in guerilla.conf :
+	http://guerillarender.com/doc/1.4/TD%20Guide_Technical%20Notes_Configuration.html
+
+
+
+thanks to the guerilla team and guerilla forum for theyr help !!!! 
